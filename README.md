@@ -13,16 +13,16 @@ Software source code previously released under an open source license and then m
 
 Install vagrant from vagrantup.com
 
-`
+```bash
 vagrant plugin install vagrant-omnibus
-`
+```
 
 Create an RVM to house your gems
 
-`
+```bash
 bundle
 librarian-chef install
 vagrant up
-`
+```
 
 After your VM has been provisioned, hit http://192.168.33.10:9000 to view the RFI Generator
