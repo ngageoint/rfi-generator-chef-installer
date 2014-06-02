@@ -6,7 +6,7 @@ The RFI Generator Chef Installer software was developed at the National Geospati
 If you'd like to contribute to this project, please make a pull request. We'll review the pull request and discuss the changes. All pull request contributions to this project will be released under the MIT license.  
 
 Software source code previously released under an open source license and then modified by NGA staff is considered a "joint work" (see 17 USC § 101); it is partially copyrighted, partially public domain, and as a whole is protected by the copyrights of the non-government authors and must be released according to the terms of the original open source license.
-:
+
 ###Vagrant/chef installer for a RFI Generator development environment
 
 *Tested with Vagrant 1.6.2 and vagrant-omnibus 1.4.1 on OSX and Ubuntu 14.04.  Ensure you've checked out the rfi-generator source code alongside this repository.*
